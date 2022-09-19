@@ -13,7 +13,7 @@ This applications will perform the action like adding & deleting the tasks whene
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\mahi1\OneDrive\Pictures\Screenshots\2022-09-19.png")
+<img width="921" alt="image" src="https://user-images.githubusercontent.com/107022099/191065658-6cae2c75-b4d7-4b5c-b905-71e7abfb0a8b.png">
 
 
 ## Demo
